@@ -1,0 +1,4 @@
+reg add HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters /v IPEnableRouter /D 1 /f
+
+sc config RemoteAccess start= auto
+sc start RemoteAccess

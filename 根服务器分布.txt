@@ -1,0 +1,104 @@
+Beijing 
+j.root-servers.net
+192.58.128.30
+2001:503:c27::2:30
+l.root-servers.net
+199.7.83.42
+2001:500:9f::42
+f.root-servers.net
+192.5.5.241
+2001:500:2f::f
+k.root-servers.net
+193.0.14.129
+2001:7fd::1
+
+l.root-servers.net.
+192.36.148.17
+
+Xining
+l.root-servers.net
+199.7.83.42
+2001:500:9f::42
+
+Zhengzhou
+l.root-servers.net
+199.7.83.42
+2001:500:9f::42
+
+Wuhan
+l.root-servers.net
+199.7.83.42
+2001:500:9f::42
+
+
+Shanghai
+l.root-servers.net
+199.7.83.42
+2001:500:9f::42
+
+Hangzhou
+f.root-servers.net
+192.5.5.241
+2001:500:2f::f
+
+j.root-servers.net
+192.58.128.30
+2001:503:c27::2:30
+
+Guiyang
+k.root-servers.net
+193.0.14.129
+2001:7fd::1
+
+Guangzhou
+k.root-servers.net
+193.0.14.129
+2001:7fd::1
+
+
+
+HongKong
+
+e.root-servers.net
+IPv4	192.203.230.10
+IPv6	2001:500:a8::e
+f.root-servers.net
+192.5.5.241
+2001:500:2f::f
+a.root-servers.net
+198.41.0.4
+2001:503:ba3e::2:30
+f.root-servers.net
+192.5.5.241
+2001:500:2f::f
+
+h.root-servers.net
+198.97.190.53
+2001:500:1::53
+
+Macau
+f.root-servers.net
+192.5.5.241
+2001:500:2f::f
+
+i.root-servers.net
+IPv4	192.36.148.17
+IPv6	2001:7fe::53
+
+taiwa
+l.root-servers.net.
+IPv4	199.7.83.42
+IPv6	2001:500:9f::42
+e.root-servers.net
+IPv4	192.203.230.10
+IPv6	2001:500:a8::e
+k.root-servers.net.
+IPv4	193.0.14.129
+IPv6	2001:7fd::1
+f.root-servers.net.
+IPv4	192.5.5.241
+IPv6	2001:500:2f::f
+
+i.root-servers.net
+IPv4	192.36.148.17
+IPv6	2001:7fe::53

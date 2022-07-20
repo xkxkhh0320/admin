@@ -1,0 +1,56 @@
+第一组 L+J+F 全国通用
+l.root-servers.net
+199.7.83.42
+2001:500:9f::42
+f.root-servers.net
+192.5.5.241
+2001:500:2f::f
+j.root-servers.net
+192.58.128.30
+2001:503:c27::2:30
+
+第二组L+j+K 全网备用
+l.root-servers.net
+199.7.83.42
+2001:500:9f::42
+j.root-servers.net
+192.58.128.30
+2001:503:c27::2:30
+k.root-servers.net
+193.0.14.129
+2001:7fd::1
+
+第三组 L+J+i 全网通用  
+l.root-servers.net
+199.7.83.42
+2001:500:9f::42
+j.root-servers.net
+192.58.128.30
+2001:503:c27::2:30
+i.root-servers.net
+IPv4	192.36.148.17
+IPv6	2001:7fe::53
+
+第四组 k+J+I 外网通用 
+
+j.root-servers.net
+192.58.128.30
+2001:503:c27::2:30
+k.root-servers.net
+193.0.14.129
+2001:7fd::1
+i.root-servers.net
+IPv4	192.36.148.17
+IPv6	2001:7fe::53
+
+第五组 F+k+i 全网备用
+f.root-servers.net
+192.5.5.241
+2001:500:2f::f
+i.root-servers.net
+IPv4	192.36.148.17
+IPv6	2001:7fe::53
+k.root-servers.net.
+IPv4	193.0.14.129
+IPv6	2001:7fd::1
+ 
