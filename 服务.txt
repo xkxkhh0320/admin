@@ -1,0 +1,19 @@
+改动服务启动类型的命令行格式为（特别注意start=后面有一个空格）　　
+ 　　sc config 服务名称 start= auto(设置服务为自动启动)
+ 　　
+     sc config dnscache start= auto
+
+ 　　sc config 服务名称 start= demand(设置服务为手动启动)
+ 　　
+     sc config dnscache start= demand
+
+ 　　sc config 服务名称 start= disabled(设置服务为禁用) 　
+
+     sc config dnscache start= disabled
+
+ 　　停止/启动服务的命令行格式为 　　
+
+ 　　sc stop/start 服务名称 
+
+     sc stop Dnscache
+     sc start Dnscache

@@ -1,0 +1,18 @@
+自动
+
+REG add HKLM\SYSTEM\CurrentControlSet\services\dnscache  /v Start /t REG_DWORD /d 2 /f
+
+手动
+
+REG add  HKLM\SYSTEM\CurrentControlSet\services\dnscache  /v Start /t REG_DWORD /d 3 /f
+
+关闭
+
+REG add  HKLM\SYSTEM\CurrentControlSet\services\dnscache  /v Start /t REG_DWORD /d 4 /f
+
+自动 (延迟启动)
+
+REG add  HKLM\SYSTEM\CurrentControlSet\services\dnscache  /v Start /t REG_DWORD /d 2 /f
+
+
+

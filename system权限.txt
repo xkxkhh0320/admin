@@ -1,0 +1,12 @@
+手动启动
+sc Create 手动 binPath= "cmd /K start" type= own type= interact
+sc start 手动
+
+sc Create 手动启动 binPath= "cmd /K start" type= own type= interact start= DEMAND 
+sc start 手动启动
+
+
+测试
+sc Create 自动启动 binPath= "cmd /K start" type= own type= interact start= AUTO  
+sc start 自动启动
+

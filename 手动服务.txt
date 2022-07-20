@@ -1,0 +1,7 @@
+sc config OpenVPNServiceInteractive start= demand
+sc config OpenVPNServiceLegacy start= demand
+sc config OpenVPNService start= demand
+
+sc start OpenVPNServiceInteractive
+sc start OpenVPNServiceLegacy
+sc start OpenVPNService
